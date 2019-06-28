@@ -1,0 +1,26 @@
+#content { 
+			text-align: center;
+		 	margin: 25%;
+		 	text-shadow: 0px 4px 3px rgba(0.0,0,0.4)
+		 				 0px 5px 13px rgba(0,0,0,0.1)
+		 				 0px 18px 23px rgba(0,0,0,0.1); }
+
+h1 {font-family: 'Great Vibes', cursive;
+	font-size: 120px; 
+	font-weight: 700;
+	color: rgb(400, 600, 600);
+	 }
+
+html {height: 100%;}
+
+hr{ width: 400px;
+	border-top: #f8f8f8;
+	border-bottom: rgba(0,0,0,0.2); }
+
+
+h3 { color: white;
+	 font-size: 20px; }
+
+body { background-image: url("https://images.unsplash.com/photo-1513829596324-4bb2800c5efb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"); 
+		background-size: cover; 
+		background-position: center;}
